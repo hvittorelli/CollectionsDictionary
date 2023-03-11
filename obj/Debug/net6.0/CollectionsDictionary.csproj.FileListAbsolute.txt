@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.exe
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.deps.json
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.dll
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.dll
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\refint\CollectionsDictionary.dll
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\CollectionsDictionary\CollectionsDictionary\obj\Debug\net6.0\ref\CollectionsDictionary.dll
